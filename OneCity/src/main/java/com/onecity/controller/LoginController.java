@@ -21,4 +21,14 @@ public class LoginController {
             return "../login";
         }
     }
+    
+    @RequestMapping("leftMenu")
+    public String leftMenu(){
+        return "leftMenu";
+    }
+    
+    @RequestMapping("productList")
+    public String productList(){
+        return "productList";
+    }
 }

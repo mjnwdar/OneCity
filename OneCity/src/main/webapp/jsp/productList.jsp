@@ -16,19 +16,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
-            <div id="navbar" class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li><a href="#">äº§ååç±»</a></li>
-                    <li><a href="#">/</a></li>
-                    <li><a href="#">äº§ååè¡¨</a></li>
-                    <li><a href="#">/</a></li>
-                    <li class="active"><a href="#">ç¸æº</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+    <%@include file="../common/head.jsp"%>
 
     <div class="container" style="width: 800px;">
         <div class="jumbotron">
@@ -45,7 +33,7 @@
                         <div class="row">
                             <div class="col-md-10">
                                 <div style="padding-top:20px">
-                                    <span class="name">Sony ä¹ææ°ãããã </span>
+                                    <span class="name">Sony MP3 </span>
                                 </div>
                             </div>
                             <div class="col-md-1 glyphicon glyphicon-fire"></div>
@@ -59,7 +47,7 @@
                              </div>
                          </div>
                          <div class="row margin10">
-                             <div class="col-md-10"><span class=" glyphicon glyphicon-map-marker font12"></span>å¾å®¶æ±</div>
+                             <div class="col-md-10"><span class=" glyphicon glyphicon-map-marker font12"></span>New York</div>
                              <div class="col-md-2">$200</div>
                          </div>
                     </div>
@@ -80,7 +68,7 @@
                         <div class="row">
                             <div class="col-md-10">
                                 <div style="padding-top:20px">
-                                    <span class="name">Sony ä¹ææ°ãããã </span>
+                                    <span class="name">Sony MP3 </span>
                                 </div>
                             </div>
                             <div class="col-md-1 glyphicon glyphicon-fire"></div>
@@ -94,7 +82,7 @@
                              </div>
                          </div>
                          <div class="row margin10">
-                             <div class="col-md-10"><span class=" glyphicon glyphicon-map-marker font12"></span>å¾å®¶æ±</div>
+                             <div class="col-md-10"><span class=" glyphicon glyphicon-map-marker font12"></span>New York</div>
                              <div class="col-md-2">$200</div>
                          </div>
                     </div>
@@ -115,7 +103,7 @@
                         <div class="row">
                             <div class="col-md-10">
                                 <div style="padding-top:20px">
-                                    <span class="name">Sony ä¹ææ°ãããã </span>
+                                    <span class="name">Sony MP3 </span>
                                 </div>
                             </div>
                             <div class="col-md-1 glyphicon glyphicon-fire"></div>
@@ -129,7 +117,7 @@
                              </div>
                          </div>
                          <div class="row margin10">
-                             <div class="col-md-10"><span class=" glyphicon glyphicon-map-marker font12"></span>å¾å®¶æ±</div>
+                             <div class="col-md-10"><span class=" glyphicon glyphicon-map-marker font12"></span>New York</div>
                              <div class="col-md-2">$200</div>
                          </div>
                     </div>
@@ -150,7 +138,7 @@
                         <div class="row">
                             <div class="col-md-10">
                                 <div style="padding-top:20px">
-                                    <span class="name">Sony ä¹ææ°ãããã </span>
+                                    <span class="name">Sony MP3 </span>
                                 </div>
                             </div>
                             <div class="col-md-1 glyphicon glyphicon-fire"></div>
@@ -164,7 +152,7 @@
                              </div>
                          </div>
                          <div class="row margin10">
-                             <div class="col-md-10"><span class=" glyphicon glyphicon-map-marker font12"></span>å¾å®¶æ±</div>
+                             <div class="col-md-10"><span class=" glyphicon glyphicon-map-marker font12"></span>New York</div>
                              <div class="col-md-2">$200</div>
                          </div>
                     </div>
@@ -185,7 +173,7 @@
                         <div class="row">
                             <div class="col-md-10">
                                 <div style="padding-top:20px">
-                                    <span class="name">Sony ä¹ææ°ãããã </span>
+                                    <span class="name">Sony MP3 </span>
                                 </div>
                             </div>
                             <div class="col-md-1 glyphicon glyphicon-fire"></div>
@@ -199,7 +187,7 @@
                              </div>
                          </div>
                          <div class="row margin10">
-                             <div class="col-md-10"><span class=" glyphicon glyphicon-map-marker font12"></span>å¾å®¶æ±</div>
+                             <div class="col-md-10"><span class=" glyphicon glyphicon-map-marker font12"></span>New York</div>
                              <div class="col-md-2">$200</div>
                          </div>
                     </div>
