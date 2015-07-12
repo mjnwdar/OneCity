@@ -1,6 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
     <!-- Fixed navbar -->
+    <div class="ym-wrapper">
+    <div class="ym-wbox">
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
@@ -62,3 +64,5 @@
             <!--/.nav-collapse -->
         </div>
     </nav>
+    </div>
+    </div>
