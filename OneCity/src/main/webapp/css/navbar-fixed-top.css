@@ -130,10 +130,6 @@ body {
 	border: 1px solid #ffffff;
 }
 
-.form-control::-webkit-input-placeholder {
-	color: #afafaf
-}
-
 <!-- change navbar font color -->
 .navbar-default .navbar-nav>li>a {
 	color: rgb(255, 255, 255);
