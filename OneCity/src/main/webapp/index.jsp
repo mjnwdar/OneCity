@@ -12,7 +12,6 @@
 <title>One City Home</title>
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/navbar-fixed-top.css" rel="stylesheet">
-<link rel="stylesheet" href="yaml/core/base.min.css" type="text/css"/>
 <script src="js/ie-emulation-modes-warning.js"></script>
 </head>
 

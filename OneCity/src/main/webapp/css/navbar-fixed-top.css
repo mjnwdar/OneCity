@@ -1,12 +1,18 @@
+* {
+	font-family: "HiraginoSansGB-W3";
+}
+
 body {
     padding-top: 70px;
 }
+
 .bg{
    background:url(http://wyz.67ge.com/wp-content/uploads/qzlogo.jpg);
    filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
    -moz-background-size:100% 100%;
    background-size:100% 100%;
 }
+
 .layer ul {
     list-style: none;
 }
@@ -69,7 +75,7 @@ body {
 .float{
     float:left;
 }
-/*¶¨Òå¶þ¼¶²Ëµ¥ÑùÊ½*/
+/*ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ëµï¿½ï¿½ï¿½Ê½*/
 .secondmenu a {
     font-size: 10px;
     color: #4A515B;
@@ -82,12 +88,10 @@ body {
 }
 
 .navbar-brand {
-    background: url('') no-repeat 10px 8px;
-    display: inline-block;
-    vertical-align: middle;
-    padding-left: 50px;
-    color: #fff;
+	padding: 1px 1px;
+	margin-right: 50px;
 }
+
 .btn-auto-block{
     margin:5px;
     float:left;
@@ -105,3 +109,25 @@ body {
     height:2px;
     border:1px solid black;
 }
+
+
+.navbar-default {
+    border-color: rgb(231, 231, 231); background-color: rgb(244, 111, 23);
+    font-size: 12pt;
+    
+}
+
+.navbar-form {
+	padding: 10px 15px;
+	margin: 0px 10px;
+}
+
+<!-- change navbar font color -->
+.navbar-default .navbar-nav>li>a {
+	color: rgb(255, 255, 255);
+}
+
+
+
+
+	
