@@ -22,7 +22,7 @@
 		<div class="row-fluid">
 
 			<!-- left part -->
-			<%@include file="../common/cagetory.jsp"%>
+			<%@include file="../common/category.jsp"%>
 			
 			<!-- main part -->
 			<%@include file="../common/main.jsp"%>
