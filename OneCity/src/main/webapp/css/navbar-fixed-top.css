@@ -118,8 +118,16 @@ body {
 }
 
 .navbar-form {
-	padding: 10px 15px;
-	margin: 0px 10px;
+	
+	margin: 0px;
+	/*margin-left:150px;*/
+}
+
+.form-control {
+	margin-top: 8px;
+	font-size: 14px;
+	color: #ffffff;
+	border: 1px solid #ffffff;
 }
 
 <!-- change navbar font color -->

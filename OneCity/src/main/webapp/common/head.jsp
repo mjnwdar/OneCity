@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
     <!-- Fixed navbar -->
 
-<nav class="navbar navbar-default navbar-fixed-top">
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed"
@@ -35,7 +35,7 @@
            		</ul>
                 
                 <div class="form-group">
-                    <input type="text" class="form-control search32" placeholder="搜索" />
+                    <input type="text" class="form-control search32" placeholder="Search" />
                 </div>
             </form>
 
