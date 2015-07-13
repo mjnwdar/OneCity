@@ -2,7 +2,7 @@
 	pageEncoding="UTF-8"%>
 <!DOCTYPE>
 
-<div class="col-md-3 hidden-phone">
+<div class="col-xs-6 col-md-3 hidden-phone">
 	<div class="panel-group" id="panel-972121">
 		<div class="panel panel-default">
 			<div class="panel-heading">

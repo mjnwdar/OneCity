@@ -12,10 +12,10 @@
 <title>One City Home</title>
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/navbar-fixed-top.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css"/>
+<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.min.css"/>
+<script src="js/jquery.min.js"></script>
 <script src="js/ie-emulation-modes-warning.js"></script>
 <script src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/jquery.min.js"></script>
 </head>
 
 <body>

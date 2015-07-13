@@ -2,7 +2,7 @@
 	pageEncoding="UTF-8"%>
 <!DOCTYPE>
 
-<div class="col-md-6">
+<div class="col-xs-12 col-md-6">
 	<div class="carousel slide" id="carousel-693463">
 		<ol class="carousel-indicators">
 			<li data-slide-to="0" data-target="#carousel-693463"></li>
