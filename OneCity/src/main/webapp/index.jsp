@@ -9,6 +9,7 @@
 <meta name="description" content="this my first bootstrap example">
 <meta name="author" content="eason">
 
+
 <title>One City Home</title>
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/navbar-fixed-top.css" rel="stylesheet">
@@ -16,8 +17,8 @@
 </head>
 
 <body>
-    <%@include file="../common/head.jsp"%>
-    <div class="container" style="width: 800px;">
+    <%@include file="../common/head2.jsp"%>
+    <div class="container" style="width: 700px;">
         <div class="jumbotron">
             <div class="table margin10">
                 <div class="row">

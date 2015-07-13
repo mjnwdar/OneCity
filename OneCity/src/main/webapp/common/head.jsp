@@ -22,7 +22,7 @@
                 <li><a href="#">下载</a></li>
             </ul>
             
-            <form class="navbar-form navbar-left navbar-space" role="search">
+            <form class="navbar-form navbar-right navbar-space" role="search">
                 
                 <ul class="nav navbar-nav">
                 	<li class="dropdown"><a href="#" class="dropdown-toggle"
