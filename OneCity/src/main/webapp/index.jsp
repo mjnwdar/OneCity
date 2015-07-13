@@ -12,12 +12,15 @@
 <title>One City Home</title>
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/navbar-fixed-top.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css"/>
 <script src="js/ie-emulation-modes-warning.js"></script>
 <script src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/jquery.min.js"></script>
 </head>
 
 <body>
 	<%@include file="../common/head.jsp"%>
+	<div style="margin-top:40px">
 	<div class="container-fluid">
 		<div class="row-fluid">
 
@@ -32,7 +35,7 @@
 
 		</div>
 	</div>
-
+	</div>
 
 	<!-- Bootstrap core JavaScript
     ================================================== -->
