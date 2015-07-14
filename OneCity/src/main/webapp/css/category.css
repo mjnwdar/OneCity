@@ -1,0 +1,9 @@
+.panel-title {
+	font-size: 18px;
+	color: inherit
+}
+
+.panel-default {
+	border-color: #ddd;
+	text-align:center;
+}

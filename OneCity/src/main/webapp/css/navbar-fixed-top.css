@@ -6,44 +6,6 @@ body {
     padding-top: 70px;
 }
 
-.bg{
-   background:url(http://wyz.67ge.com/wp-content/uploads/qzlogo.jpg);
-   filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
-   -moz-background-size:100% 100%;
-   background-size:100% 100%;
-}
-
-.layer ul {
-    list-style: none;
-}
-.layer ul > li {
-    float:left;
-    padding:0px;
-    margin:0px;
-}
-.headportrait {
-    width:50px;
-    height:50px;
-    margin:0px 0px 0px -10px;
-    float:left;
-    border-radius: 50%;
-}
-.name{
-    padding:0 30px 0 0;
-    font-size: 14pt;
-    font-weight: bold;
-    float:left;
-}
-.time{
-    padding:5px 0 0 0;
-}
-.image{
-    width:220px;
-    height:220px;
-    border:1px solid #bbb;
-    margin:5px;
-    float:left;
-}
 .description{
     margin:15px 0 20px 0;
     line-height:23px;
@@ -55,59 +17,10 @@ body {
     padding-right:35px;
     background:url('../image/icon/search32.png') no-repeat center right;
 }
-.fontSize16{
-    padding-left:40px;
-    padding-right:40px;
-    font-size:16pt;
-    border:none;
-}
-.bottombar{
-    text-align:center;
-    padding-top:10px;
-    border-top: 1px solid #bbb;
-}
-.margin10{
-    margin:10px;
-}
-.font12{
-    font-size:15pt;
-}
-.float{
-    float:left;
-}
-/*��������˵���ʽ*/
-.secondmenu a {
-    font-size: 10px;
-    color: #4A515B;
-    text-align: center;
-}
-
-.navbar-static-top {
-    background-color: #212121;
-    margin-bottom: 5px;
-}
 
 .navbar-brand {
 	padding: 1px 1px;
 	margin-right: 50px;
-}
-
-.btn-auto-block{
-    margin:5px;
-    float:left;
-    width:40%;
-    display:block;
-}
-.login-image{
-    margin:2px;
-    width: 48;
-    height: 48px;
-    z-index: 0;
-}
-.line{
-    width:80%;
-    height:2px;
-    border:1px solid black;
 }
 
 
