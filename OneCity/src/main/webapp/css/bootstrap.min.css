@@ -4919,7 +4919,9 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
 
 .navbar-default .navbar-nav>li>a {
 	/* changetag */
-	color: white
+	color: rgb(244, 111, 23);
+	font-size: 16px;
+	<!-- color: #777; -->
 }
 
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover

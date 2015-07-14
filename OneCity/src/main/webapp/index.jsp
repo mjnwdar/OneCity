@@ -5,7 +5,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta name="description" content="this my first bootstrap example">
 <meta name="author" content="eason">
 
@@ -14,9 +14,6 @@
 <link href="css/navbar-fixed-top.css" rel="stylesheet">
 <link href="css/category.css" rel="stylesheet">
 
-<script src="js/jquery.min.js"></script>
-<script src="js/ie-emulation-modes-warning.js"></script>
-<script src="js/bootstrap.min.js"></script>
 </head>
 
 <body>
@@ -43,6 +40,8 @@
 	<!-- Placed at the end of the document so the pages load faster -->
 	<script src="js/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
+	<script src="js/ie-emulation-modes-warning.js"></script>
+
 	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 	<script src="js/ie10-viewport-bug-workaround.js"></script>
 </body>

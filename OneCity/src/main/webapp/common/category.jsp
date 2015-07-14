@@ -2,12 +2,12 @@
 	pageEncoding="UTF-8"%>
 <!DOCTYPE>
 
-<div class="col-xs-6 col-md-3">
-	
+<div class="col-xs-12 col-md-3">
+	<div class="container-fluid">
 	<div class="panel-group" id="panel-1">
-	
+
 		<!-- category 1 -->
-		
+
 		<div class="panel panel-default">
 			<div class="panel-heading">
 				<a class="panel-title collapsed" data-toggle="collapse"
@@ -17,7 +17,7 @@
 				<a href="#" class="list-group-item">二级分类1</a>
 			</div>
 		</div>
-		
+
 		<!-- category 2 -->
 		<div class="panel panel-default">
 			<div class="panel-heading">
@@ -25,13 +25,13 @@
 					data-parent="#panel-1" href="#panel-element-12">本地服务</a>
 			</div>
 			<div id="panel-element-12" class="list-group collapse">
-				<a href="#" class="list-group-item">二级分类1</a>
-				<a href="#" class="list-group-item">二级分类2</a>
-				<a href="#" class="list-group-item">二级分类3</a>
-				<a href="#" class="list-group-item">二级分类4</a>
+				<a href="#" class="list-group-item">二级分类1</a> <a href="#"
+					class="list-group-item">二级分类2</a> <a href="#"
+					class="list-group-item">二级分类3</a> <a href="#"
+					class="list-group-item">二级分类4</a>
 			</div>
 		</div>
-		
+
 		<!-- category 3 -->
 		<div class="panel panel-default">
 			<div class="panel-heading">
@@ -42,18 +42,18 @@
 				<a href="#" class="list-group-item">二级分类1</a>
 			</div>
 		</div>
-		
+
 		<!-- category 4 -->
 		<div class="panel panel-default">
 			<div class="panel-heading">
 				<a class="panel-title collapsed" data-toggle="collapse"
 					data-parent="#panel-1" href="#panel-element-14">汽车•旅行</a>
 			</div>
-			<div id="panel-element-14" class="panel-collapse collapse">
+			<div id="panel-element-14" class="list-group collapse">
 				<a href="#" class="list-group-item">二级分类1</a>
 			</div>
 		</div>
-		
+
 		<!-- category 5 -->
 		<div class="panel panel-default">
 			<div class="panel-heading">
@@ -64,17 +64,35 @@
 				<a href="#" class="list-group-item">二级分类1</a>
 			</div>
 		</div>
-		
+
 		<!-- category 6 -->
 		<div class="panel panel-default">
 			<div class="panel-heading">
 				<a class="panel-title collapsed" data-toggle="collapse"
 					data-parent="#panel-1" href="#panel-element-16">教育•工作</a>
 			</div>
-			<div id="panel-element-16" class="list-group collapse">
-				<a href="#" class="list-group-item">二级分类1</a>
+			<div class="container-fluid">
+			<div id="panel-element-16" class="row-fulid collapse">
+				<div class="col-xs-6 col-md-6" style="padding: ">
+					<div class="list-group" style="padding-top: 20px">
+						<button type="button" class="list-group-item">二级分类</button>
+						<button type="button" class="list-group-item">二级分类</button>
+						<button type="button" class="list-group-item">二级分类</button>
+						<button type="button" class="list-group-item">二级分类</button>
+						<button type="button" class="list-group-item">二级分类</button>
+					</div>
+				</div>
+				<div class="col-xs-6 col-md-6">
+					<div class="list-group" style="padding-top: 20px">
+						<button type="button" class="list-group-item">二级分类</button>
+						<button type="button" class="list-group-item">二级分类</button>
+						<button type="button" class="list-group-item">二级分类</button>
+						<button type="button" class="list-group-item">二级分类</button>
+					</div>
+				</div>
+			</div>
 			</div>
 		</div>
-		
+	</div>
 	</div>
 </div>

@@ -25,9 +25,7 @@ body {
 
 
 .navbar-default {
-    border-color: rgb(231, 231, 231); background-color: rgb(244, 111, 23);
-    font-size: 12pt;
-    
+	 <!-- background-color: rgb(244, 111, 23);-->
 }
 
 .navbar-form {
@@ -39,16 +37,30 @@ body {
 .form-control {
 	margin-top: 8px;
 	font-size: 14px;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover
+	{
 	color: #ffffff;
-	border: 1px solid #ffffff;
+	background-color: #f87425;
 }
 
-<!-- change navbar font color -->
-.navbar-default .navbar-nav>li>a {
-	color: rgb(255, 255, 255);
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus,
+	.navbar-default .navbar-nav>.active>a:hover {
+	color: #ffffff;
+	background-color: #f87425;
 }
 
+.form-control::-webkit-input-placeholder {
+	color: #aeaeae
+}
 
+.navbar-default .navbar-toggle {
+	border-color: #f87425;
+}
 
-
+.navbar-default .navbar-toggle:hover
+	{
+	background-color: transparent;
+}
 	
