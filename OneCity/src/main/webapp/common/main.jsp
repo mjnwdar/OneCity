@@ -3,7 +3,7 @@
 <!DOCTYPE>
 
 <div class="col-xs-12 col-md-6">
-	<div class="carousel slide" id="carousel-693463">
+	<div class="carousel slide hidden-xs" id="carousel-693463">
 		<ol class="carousel-indicators">
 			<li data-slide-to="0" data-target="#carousel-693463"></li>
 			<li data-slide-to="1" data-target="#carousel-693463"></li>
@@ -46,28 +46,24 @@
 		<a class="right carousel-control" href="#carousel-693463"
 			data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 	</div>
+
+	<div class="jumbotron" style="margin-top:20px;">
+		<div class="col-md-2">
+			
+		</div>
+		
+		<div class="col-md-10">
+		</div>
+		
+	</div>
 	
-	<div class="jumbotron">
-				<h2>
-					Hello, world!
-				</h2>
-				<p>
-					This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.
-				</p>
-				<p>
-					<a class="btn btn-primary btn-large" href="#">Learn more</a>
-				</p>
-				<p>
-					This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.
-				</p>
-				<p>
-					<a class="btn btn-primary btn-large" href="#">Learn more</a>
-				</p>
-				<p>
-					This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.
-				</p>
-				<p>
-					<a class="btn btn-primary btn-large" href="#">Learn more</a>
-				</p>
-			</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
 </div>

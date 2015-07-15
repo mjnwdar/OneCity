@@ -3,17 +3,19 @@
 <!DOCTYPE>
 
 <div class="col-xs-12 col-md-3">
-
-	<button class="button button-glow button-jumbo button-highlight button-border button-circle"><i class="icon-chevron-down"></i></button>
-
 	<div class="container-fluid" id="master">
+		<div style="margin-left:auto; margin-right:auto; margin-bottom: 30px; width:60px;">
+			<button class="button button-glow button-jumbo button-highlight button-border button-circle collapse in"
+			role="button" data-toggle="collapse" data-parent="#master" href="#panel-1"><i class="icon-chevron-down"></i></button>
+		</div>
+<!--		
 		<div class="panel panel-default"  id="panel-parent">
 			<div class="panel-heading">
 				<a class="panel-title collapse in" data-toggle="collapse"
 				data-parent="#master" href="#panel-1">分类</a>
 			</div>
 		</div>
-	
+-->	
 	
 	<div class="panel-group collapse" id="panel-1" role="tablist">
 
@@ -84,8 +86,8 @@
 			</div>
 			<div class="container-fluid">
 			<div id="panel-element-16" class="row-fulid collapse">
-				<div class="col-xs-6 col-md-6" style="padding: ">
-					<div class="list-group" style="padding-top: 20px">
+				<div class="col-xs-6 col-md-6">
+					<div class="list-group" style="padding-top: 20px; margin-left:auto; margin-right:auto; width: 70px;">
 						<button type="button" class="list-group-item">二级分类</button>
 						<button type="button" class="list-group-item">二级分类</button>
 						<button type="button" class="list-group-item">二级分类</button>
@@ -94,7 +96,7 @@
 					</div>
 				</div>
 				<div class="col-xs-6 col-md-6">
-					<div class="list-group" style="padding-top: 20px">
+					<div class="list-group" style="padding-top: 20px; margin-left:auto; margin-right:auto; width: 70px;">
 						<button type="button" class="list-group-item">二级分类</button>
 						<button type="button" class="list-group-item">二级分类</button>
 						<button type="button" class="list-group-item">二级分类</button>
@@ -107,3 +109,4 @@
 	</div>
 	</div>
 </div>
+

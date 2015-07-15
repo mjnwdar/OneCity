@@ -15,3 +15,8 @@ button.list-group-item {
 	font-size: 12px;
 	padding: 10px 10px;
 }
+
+.button-highlight,
+.button-highlight-flat {
+  border-color: rgb(244, 111, 23);
+  color: #FFF; }

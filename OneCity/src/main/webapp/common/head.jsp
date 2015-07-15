@@ -42,12 +42,11 @@
                         <li><a href="#">多伦多</a></li>
                     </ul></li>
            		</ul>
-                
-                <div class="form-group">
+               
                     <input type="text" class="form-control search32" placeholder="Search" />
-                </div>
+                    
+                     
             </form>
-
 
             <ul class="nav navbar-nav navbar-left">
                
