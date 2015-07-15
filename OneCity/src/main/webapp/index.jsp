@@ -11,6 +11,8 @@
 
 <title>One City Home</title>
 <link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/font-awesome.min.css" rel="stylesheet">
+<link href="css/buttons.css" rel="stylesheet">
 <link href="css/navbar-fixed-top.css" rel="stylesheet">
 <link href="css/category.css" rel="stylesheet">
 
