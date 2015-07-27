@@ -6,7 +6,7 @@
 	<div class="container-fluid" id="master">
 		<div style="margin-left:auto; margin-right:auto; margin-bottom: 30px; width:60px;">
 			<button class="button button-glow button-jumbo button-highlight button-border button-circle collapse in"
-			role="button" data-toggle="collapse" data-parent="#master" href="#panel-1"><i class="icon-chevron-down"></i></button>
+			role="button" data-toggle="collapse" data-parent="#master" href="#panel-1"><i class="icon-th-large"></i></button>
 		</div>
 <!--		
 		<div class="panel panel-default"  id="panel-parent">
