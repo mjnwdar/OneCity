@@ -81,9 +81,9 @@
 		
 		<div class="One_feed_handle">
 			<div class="button-group">
-			    <button type="button" class="button button-small button-plain button-borderless" style="margin-left:70px"><i class="icon-heart-empty" style="color:black"></i></button>
-			    <button type="button" class="button button-small button-plain button-borderless" style="margin-left:130px"><i class="icon-comment-alt" style="color:black"></i></button>
-			    <button type="button" class="button button-small button-plain button-borderless" style="margin-left:130px"><i class="icon-share" style="color:black"></i></button> 
+			    <button type="button" class="button button-small button-plain button-borderless" style="margin-left:70px; margin-right:70px;"><i class="icon-heart-empty" style="color:black"></i></button>
+			    <button type="button" class="button button-small button-plain button-borderless" style="margin-left:70px; margin-right:70px;"><i class="icon-comment-alt" style="color:black"></i></button>
+			    <button type="button" class="button button-small button-plain button-borderless" style="margin-left:70px; margin-right:70px;"><i class="icon-share" style="color:black"></i></button> 
 			</div>
                 
 		</div>
