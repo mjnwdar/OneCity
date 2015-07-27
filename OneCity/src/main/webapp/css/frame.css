@@ -1,0 +1,88 @@
+@CHARSET "UTF-8";
+
+.clearfix {
+    display: block;
+}
+
+.One_f14 {
+    font-size: 14px 
+}
+
+.One_txt2{
+    color: #919191;
+    text-decoration: none;
+}
+
+
+
+.One_nickname {
+	color:black;
+}
+
+.One_cardwrap {
+    margin: 10px 0 10px 0;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    *zoom: 1;
+    background-color:#cfd8e0;
+}
+
+.One_feed_detail {
+    padding: 10px 16px 10px 10px;
+}
+
+.One_face{
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.One_face_radius {
+    border-radius: 3px;
+}
+
+.One_detail {
+    margin-left: 60px;
+}
+
+.One_info {
+    margin: 0 0 3px;
+    padding: 5px 0 0;
+}
+
+.One_text {
+    _width: 100%;
+    padding: 1px 0 3px;
+    overflow: hidden;
+    line-height: 23px;
+    word-wrap: break-word;
+}
+
+.One_verified {
+    display: inline-block;
+    background-image: url(http://img.t.sinajs.cn/t6/style/images/common/icon-x2.png?id=201507101430) ;
+    background-repeat: no-repeat;
+    background-size: 625px 325px;
+}
+
+.icon_approve_co {
+    background-position: 0 -75px;
+}
+
+.icon_approve, .icon_approve_co, .icon_approve_dead {
+    width: 15px;
+    height: 15px;
+    margin-left: 3px;
+    vertical-align: -2px;
+    vertical-align: text-bottom 9;
+}
+
+.One_feed_handle .One_handle {
+    overflow: hidden;
+}
+
+
+
+
+
+

@@ -15,6 +15,7 @@
 <link href="css/buttons.css" rel="stylesheet">
 <link href="css/navbar-fixed-top.css" rel="stylesheet">
 <link href="css/category.css" rel="stylesheet">
+<link href="css/frame.css" rel="stylesheet">
 
 </head>
 
