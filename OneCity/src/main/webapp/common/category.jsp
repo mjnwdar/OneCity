@@ -3,12 +3,7 @@
 <!DOCTYPE>
 
 <div class="col-xs-12 col-md-3">
-<<<<<<< Updated upstream
-	<div class="container-fluid" id="master">
-		<div style="margin-left:auto; margin-right:auto; margin-bottom: 30px; width:60px;">
-			<button class="button button-glow button-jumbo button-highlight button-border button-circle collapse in"
-			role="button" data-toggle="collapse" data-parent="#master" href="#panel-1"><i class="icon-th-large"></i></button>
-=======
+
 	<div class="container-fluid">
 		<div
 			style="margin-left: auto; margin-right: auto; margin-bottom: 30px; width: 60px;">
@@ -17,7 +12,6 @@
 				role="button" data-toggle="collapse" href="#panel-1">
 				<i class="icon-th-large"></i>
 			</button>
->>>>>>> Stashed changes
 		</div>
 <!--		
 		<div class="panel panel-default"  id="panel-parent">
